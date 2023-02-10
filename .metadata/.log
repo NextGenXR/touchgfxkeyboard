@@ -1,0 +1,1140 @@
+!SESSION 2023-01-30 15:43:27.038 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 2 0 2023-01-30 15:43:40.243
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-01-30 15:43:40.243
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2023-01-30 15:43:41.331
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2023-01-30 15:43:41.412
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-01-30 15:43:45.794
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-01-30 15:43:45.847
+!MESSAGE Log4j initialized with config file G:\GitHub\touchgfxkeyboard\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-01-30 15:43:46.808
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\joconnor'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-01-30 15:43:53.359
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:44:20.881
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:44:20.881
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:44:20.881
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:44:20.887
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:44:24.966
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:44:24.967
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:44:24.967
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:44:24.978
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-01-30 15:44:29.545
+!MESSAGE Indexed 'src' (109 sources, 629 headers) in 16.7 sec: 59,572 declarations; 154,909 references; 11 unresolved inclusions; 792 syntax errors; 1,054 unresolved names (0.49%)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-01-30 15:44:38.837
+!MESSAGE Using unsafe http transport to retrieve http://downloads.genuitec.com/downloads/products/codetogether/updates/ct20221214/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.622
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.626
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.631
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.636
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.640
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.645
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.649
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.653
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.658
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.662
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.666
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:11.670
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.868
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.873
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.877
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.882
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.888
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.893
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.898
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.903
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.908
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/BSP}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.912
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.917
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/ft5336}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2023-01-30 15:46:24.922
+!MESSAGE Failed to check relative, returning possibly relative path: G:\GitHub\touchgfxkeyboard\src\Debug/"" literal was "${workspace_loc:/MyProject/Drivers/Components/n25q128a}"
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:46:27.547
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:46:27.547
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:46:27.547
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:46:27.551
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:46:30.319
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:46:30.319
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:46:30.319
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:46:30.323
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:49:43.398
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:49:43.398
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:49:43.398
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:49:43.402
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:50:38.609
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:50:38.609
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:50:38.609
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:50:38.613
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:50:43.354
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:50:43.354
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:50:43.354
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:50:43.359
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-01-30 15:50:46.181
+!MESSAGE Indexed 'src' (110 sources, 629 headers) in 9.73 sec: 59,997 declarations; 155,496 references; 11 unresolved inclusions; 792 syntax errors; 1,070 unresolved names (0.49%)
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:52:58.139
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:52:58.139
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:52:58.139
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:52:58.144
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:53:01.743
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:53:01.743
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:53:01.743
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:53:01.747
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:54:21.698
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:54:21.698
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:54:21.698
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:54:21.702
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2023-01-30 15:54:23.879
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-01-30 15:54:23.879
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2023-01-30 15:54:23.879
+!MESSAGE G:\GitHub\touchgfxkeyboard\src overlaps the location of another project: 'src'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2023-01-30 15:54:23.884
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:43.954
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:43.962
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:43.969
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:43.977
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:262)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsole.setBackground(BuildConsole.java:133)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:374)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:43.985
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:368)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:43.993
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:368)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:44.000
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:368)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:44.009
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:368)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:44.017
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:44.025
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:44.033
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:44.041
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:356)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:44.048
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:44.055
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 2 2023-01-30 16:27:44.062
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.console".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.console 4 120 2023-01-30 16:27:44.069
+!MESSAGE Exception occurred during console property change notification.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:447)
+	at org.eclipse.swt.widgets.Widget.getDisplay(Widget.java:569)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsolePage.propertyChange(BuildConsolePage.java:253)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.run(AbstractConsole.java:97)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.console.AbstractConsole$PropertyNotifier.notify(AbstractConsole.java:112)
+	at org.eclipse.ui.console.AbstractConsole.firePropertyChange(AbstractConsole.java:230)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleStreamDecorator.setColor(BuildConsoleStreamDecorator.java:46)
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.propertyChange(BuildConsoleManager.java:362)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore$2.run(ScopedPreferenceStore.java:325)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.firePropertyChangeEvent(ScopedPreferenceStore.java:322)
+	at org.eclipse.ui.preferences.ScopedPreferenceStore.lambda$0(ScopedPreferenceStore.java:171)
+	at org.eclipse.core.internal.preferences.EclipsePreferences$2.run(EclipsePreferences.java:849)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.firePreferenceEvent(EclipsePreferences.java:852)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.remove(EclipsePreferences.java:959)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1448)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.resetOverriddenPreferences(PartRenderingEngine.java:1442)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.lambda$0(PartRenderingEngine.java:1431)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4235)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3681)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.083
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.090
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.096
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.103
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.109
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.116
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.122
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2023-01-30 16:27:44.128
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.internal.ui.buildconsole.BuildConsoleManager.lambda$1(BuildConsoleManager.java:412)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3710)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:324)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:168)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)

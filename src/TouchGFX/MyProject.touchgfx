@@ -1,0 +1,540 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen1",
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Width": 480,
+            "Height": 272,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabelSettings",
+            "X": 420,
+            "Y": 212,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+            "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+            "TextId": "__SingleUse_1N3A",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "ChangeToScreenSettings",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabelSettings"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "ScreenSettings"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "ScreenSettings",
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Width": 480,
+            "Height": 272
+          },
+          {
+            "Type": "Box",
+            "Name": "box2",
+            "Width": 480,
+            "Height": 50,
+            "Color": {
+              "Red": 227,
+              "Green": 185
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 215,
+            "Y": 13,
+            "Width": 51,
+            "Height": 25,
+            "TextId": "__SingleUse_K3B8",
+            "TextRotation": "0",
+            "AutoSize": true
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabelOk",
+            "X": 419,
+            "Y": 212,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+            "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+            "TextId": "__SingleUse_PEYG",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabelCancel",
+            "Y": 212,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+            "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+            "TextId": "__SingleUse_NM46",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1",
+            "X": 197,
+            "Y": 74,
+            "Width": 252,
+            "Height": 50,
+            "Color": {
+              "Red": 133,
+              "Green": 133,
+              "Blue": 133
+            },
+            "BorderColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 2
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder1_1",
+            "X": 198,
+            "Y": 136,
+            "Width": 252,
+            "Height": 50,
+            "Color": {
+              "Red": 133,
+              "Green": 133,
+              "Blue": 133
+            },
+            "BorderColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "BorderSize": 2
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2",
+            "X": 127,
+            "Y": 87,
+            "Width": 51,
+            "Height": 25,
+            "TextId": "__SingleUse_J187",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3",
+            "X": 86,
+            "Y": 148,
+            "Width": 94,
+            "Height": 25,
+            "TextId": "__SingleUse_5OHA",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAreaPw",
+            "X": 207,
+            "Y": 148,
+            "Width": 234,
+            "Height": 26,
+            "TextId": "__SingleUse_K1Y4",
+            "TextRotation": "0",
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 18
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textAreaSsid",
+            "X": 206,
+            "Y": 86,
+            "Width": 234,
+            "Height": 26,
+            "TextId": "__SingleUse_W0QK",
+            "TextRotation": "0",
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 18
+            }
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButtonSsid",
+            "X": 198,
+            "Y": 74,
+            "Width": 251,
+            "Height": 50,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 251,
+                "Height": 50,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButtonPw",
+            "X": 199,
+            "Y": 135,
+            "Width": 251,
+            "Height": 50,
+            "Alpha": 0,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "BoxWithBorderButtonStyle",
+                "Width": 251,
+                "Height": 50,
+                "LockToFlexButtonSize": true,
+                "BorderSize": 5,
+                "ColorReleased": {
+                  "Green": 102,
+                  "Blue": 153
+                },
+                "ColorPressed": {
+                  "Green": 153,
+                  "Blue": 204
+                },
+                "ColorBorderReleased": {
+                  "Green": 51,
+                  "Blue": 102
+                },
+                "ColorBorderPressed": {
+                  "Red": 51,
+                  "Green": 102,
+                  "Blue": 153
+                }
+              }
+            ]
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "ButtonCancel",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabelCancel"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "Screen1"
+            }
+          },
+          {
+            "InteractionName": "ButtonSsid",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButtonSsid"
+            },
+            "Action": {
+              "Type": "ActionCustom2",
+              "ActionCustomTypeName": "Call ScreenSettings keyboardSelectedVar",
+              "ParameterValue": "0",
+              "ActionComponent": "ScreenSettings"
+            }
+          },
+          {
+            "InteractionName": "ButtonPw",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButtonPw"
+            },
+            "Action": {
+              "Type": "ActionCustom2",
+              "ActionCustomTypeName": "Call ScreenSettings keyboardSelectedVar",
+              "ParameterValue": "1",
+              "ActionComponent": "ScreenSettings"
+            }
+          },
+          {
+            "InteractionName": "KeyboardSelected",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "Type": "TriggerWhen",
+              "ActionCustomTypeName": "Call ScreenSettings keyboardSelectedVar"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "keyboardSelected"
+            }
+          },
+          {
+            "InteractionName": "ChangeToScreenKeyboard",
+            "Trigger": {
+              "Type": "TriggerInteractionCompleted",
+              "InteractionToTriggerOn": "KeyboardSelected"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "ScreenKeyboard"
+            }
+          },
+          {
+            "InteractionName": "UpdateScreen",
+            "Trigger": {
+              "Type": "TriggerScreenEntered"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "updateScreen"
+            }
+          }
+        ],
+        "CustomActions": [
+          {
+            "Name": "keyboardSelectedVar",
+            "HasValue": true,
+            "ValueType": "uint8_t"
+          }
+        ]
+      },
+      {
+        "Name": "ScreenKeyboard",
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "Width": 480,
+            "Height": 272,
+            "Color": {
+              "Red": 92,
+              "Green": 92,
+              "Blue": 92
+            }
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabelCancel",
+            "Y": 212,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+            "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+            "TextId": "__SingleUse_KZ57",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabelOk",
+            "X": 419,
+            "Y": 212,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__designer\\Blue_Buttons_Round_icon_button_pressed.png",
+            "Released": "__designer\\Blue_Buttons_Round_icon_button.png",
+            "TextId": "__SingleUse_KTJX",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "ButtonCancel",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabelCancel"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "ScreenSettings"
+            }
+          },
+          {
+            "InteractionName": "ButtonOk",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabelOk"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "getBuffer"
+            }
+          },
+          {
+            "InteractionName": "ChangeToScreenSettings",
+            "Trigger": {
+              "Type": "TriggerInteractionCompleted",
+              "InteractionToTriggerOn": "ButtonOk"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "ScreenSettings"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "MyProject",
+    "Resolution": {
+      "Width": 480,
+      "Height": 272
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "24": "LCD24bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 272
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD24bpp": {
+        "Id": "LCD24bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32F7",
+    "SubFamily": "STM32F7x6",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../MyProject.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": []
+  },
+  "Version": "4.21.1"
+}

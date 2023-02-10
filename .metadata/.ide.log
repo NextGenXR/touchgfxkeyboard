@@ -1,0 +1,17 @@
+2023-01-30 15:43:45,849 [INFO] Activator:179 - 
+
+
+2023-01-30 15:43:45,850 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-30 15:43:53,376 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:43:53,381 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:43:53,384 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:43:54,278 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 3:43:54 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-01-30 15:43:54,279 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1595]
+2023-01-30 15:43:54,290 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 15:43:54,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 3:43:54 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-01-30 15:43:54,293 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-01-30 15:43:54,294 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 16:27:38,212 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 16:27:38,217 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 16:27:38,220 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 16:27:45,062 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 

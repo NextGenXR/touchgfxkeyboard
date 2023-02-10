@@ -1,0 +1,67 @@
+2023-01-29 13:55:36,097 [INFO] Activator:179 - 
+
+
+2023-01-29 13:55:36,098 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-29 13:55:40,863 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 29, 2023 1:55:40 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-01-29 13:55:40,867 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1597]
+2023-01-29 13:55:40,868 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-29 13:55:40,871 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 29, 2023 1:55:40 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-01-29 13:55:40,872 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-01-29 13:55:40,873 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-29 16:31:31,264 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-01-29 16:31:34,718 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-29 16:31:46,371 [INFO] Activator:179 - 
+
+
+2023-01-29 16:31:46,372 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-29 16:31:52,647 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 29, 2023 4:31:52 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-01-29 16:31:52,651 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1596]
+2023-01-29 16:31:52,652 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-29 16:31:52,655 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 29, 2023 4:31:52 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-01-29 16:31:52,656 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-01-29 16:31:52,658 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-29 16:47:28,555 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 11:56:21,163 [INFO] Activator:179 - 
+
+
+2023-01-30 11:56:21,165 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-30 11:56:37,614 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 11:56:37,619 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 11:56:37,623 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 11:56:55,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 11:56:55 AM org.glassfish.grizzly.http.server.NetworkListener start
+2023-01-30 11:56:55,213 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1595]
+2023-01-30 11:56:55,214 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 11:56:55,217 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 11:56:55 AM org.glassfish.grizzly.http.server.HttpServer start
+2023-01-30 11:56:55,218 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-01-30 11:56:55,218 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 12:04:07,261 [ERROR] ApiDbMcu:1619 - Can't use Application install path:
+2023-01-30 12:04:09,607 [WARN] RulesReader:63 - Compatibility file://mcu/compatibility.xml not found
+2023-01-30 12:04:39,762 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 12:04:39,765 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 12:04:39,769 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 12:04:40,262 [INFO] JxBrowserEngine:114 - Initiate JxBrowser Engine with user profile folder
+2023-01-30 12:04:41,780 [WARN] WebAppUi:336 - Updater plugin not available.
+2023-01-30 12:04:43,750 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 12:04:43,751 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 15:38:45,360 [INFO] Activator:179 - 
+
+
+2023-01-30 15:38:45,362 [INFO] Activator:180 - !SESSION log4j initialized
+2023-01-30 15:38:47,640 [ERROR] ApiDbMcu:1619 - Can't use Application install path:
+2023-01-30 15:38:50,601 [WARN] RulesReader:63 - Compatibility file://mcu/compatibility.xml not found
+2023-01-30 15:39:00,311 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:39:00,314 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:39:00,317 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:39:01,075 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 3:39:01 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-01-30 15:39:01,075 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1597]
+2023-01-30 15:39:01,075 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 15:39:01,077 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Jan 30, 2023 3:39:01 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-01-30 15:39:01,077 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-01-30 15:39:01,077 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 15:42:28,617 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:42:28,620 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:42:28,623 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-01-30 15:42:29,118 [INFO] JxBrowserEngine:114 - Initiate JxBrowser Engine with user profile folder
+2023-01-30 15:42:30,207 [WARN] WebAppUi:336 - Updater plugin not available.
+2023-01-30 15:42:31,876 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-01-30 15:42:31,877 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 

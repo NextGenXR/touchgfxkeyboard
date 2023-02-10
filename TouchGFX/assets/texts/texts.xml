@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.21.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="__SingleUse_9T92" TypographyId="Typography_00" Alignment="Center">
+        <Translation Language="GB">Settings</Translation>
+      </Text>
+      <Text Id="__SingleUse_AAJ0" TypographyId="Default" Alignment="Left">
+        <Translation Language="GB">Wi-Fi</Translation>
+      </Text>
+      <Text Id="__SingleUse_4RTQ" TypographyId="Typography_00" Alignment="Center">
+        <Translation Language="GB">Ok</Translation>
+      </Text>
+      <Text Id="__SingleUse_BSZN" TypographyId="Typography_00" Alignment="Center">
+        <Translation Language="GB">Cancel</Translation>
+      </Text>
+      <Text Id="__SingleUse_FM7T" TypographyId="Default" Alignment="Left">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_N7Y1" TypographyId="Default" Alignment="Left">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DIVW" TypographyId="Default" Alignment="Left">
+        <Translation Language="GB">SSID</Translation>
+      </Text>
+      <Text Id="__SingleUse_FQQ4" TypographyId="Default" Alignment="Left">
+        <Translation Language="GB">Password</Translation>
+      </Text>
+      <Text Id="__SingleUse_4S8C" TypographyId="Typography_00" Alignment="Center">
+        <Translation Language="GB">Cancel</Translation>
+      </Text>
+      <Text Id="__SingleUse_NGFG" TypographyId="Typography_00" Alignment="Center">
+        <Translation Language="GB">Ok</Translation>
+      </Text>
+      <Text Id="EnteredText" TypographyId="Display" Alignment="Left">
+        <Translation Language="GB">&lt;placeholder&gt;</Translation>
+      </Text>
+      <Text Id="NumMode" TypographyId="Mode" Alignment="Center">
+        <Translation Language="GB">ABC</Translation>
+      </Text>
+      <Text Id="AlphaMode" TypographyId="Mode" Alignment="Center">
+        <Translation Language="GB">123</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="Display" Font="arial.ttf" Size="28" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="Mode" Font="arial.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Keyboard" Font="arial.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+  </Typographies>
+</TextDatabase>
